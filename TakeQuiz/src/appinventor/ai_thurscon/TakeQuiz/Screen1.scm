@@ -1,0 +1,4 @@
+#|
+$JSON
+{"YaVersion":"75","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"10","Uuid":"0","BackgroundColor":"&HFFCCCCCC","Title":"Take Quiz","$Components":[{"$Name":"QuestionLabel","$Type":"Label","$Version":"2","Uuid":"71399125","Text":"Question..."},{"$Name":"HorizontalArrangement1","$Type":"HorizontalArrangement","$Version":"2","Uuid":"-981187367","$Components":[{"$Name":"AnswerText","$Type":"TextBox","$Version":"4","Uuid":"156337038","Hint":"enter answer","MultiLine":"True","Width":"130"},{"$Name":"AnswerButton","$Type":"Button","$Version":"5","Uuid":"1389518479","Enabled":"False","Text":"Submit"}]},{"$Name":"RightWrongLabel","$Type":"Label","$Version":"2","Uuid":"-763237970"},{"$Name":"NextButton","$Type":"Button","$Version":"5","Uuid":"1067967100","Text":"Next"},{"$Name":"TinyWebDB1","$Type":"TinyWebDB","$Version":"2","Uuid":"817476493"}]}}
+|#
